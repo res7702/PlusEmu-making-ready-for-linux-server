@@ -1,0 +1,4 @@
+
+17:36:50 | Bug during user login: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Quasar.HabboHotel.GameClients.GameClient.TryAuthenticate(String AuthTicket) in C:\Users\arsla\Documents\Habbis Emulator - Habbis\HabboHotel\GameClients\GameClient.cs:line 164
+

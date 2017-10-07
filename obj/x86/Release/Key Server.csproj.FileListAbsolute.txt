@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\PROTONS\Proton 4 de Julio\Proton1-\bin\Debug\KeyServer.exe.config
+C:\Users\User\Desktop\PROTONS\Proton 4 de Julio\Proton1-\bin\Debug\KeyServer.exe
+C:\Users\User\Desktop\PROTONS\Proton 4 de Julio\Proton1-\bin\Debug\KeyServer.pdb
+C:\Users\User\Desktop\PROTONS\Proton 4 de Julio\Proton1-\bin\Debug\log4net.dll
+C:\Users\User\Desktop\PROTONS\Proton 4 de Julio\Proton1-\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\PROTONS\Proton 4 de Julio\Proton1-\bin\Debug\log4net.xml
+C:\Users\User\Desktop\PROTONS\Proton 4 de Julio\Proton1-\obj\x86\Release\Key Server.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\PROTONS\Proton 4 de Julio\Proton1-\obj\x86\Release\KeyServer.exe
+C:\Users\User\Desktop\PROTONS\Proton 4 de Julio\Proton1-\obj\x86\Release\KeyServer.pdb
